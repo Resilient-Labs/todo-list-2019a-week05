@@ -1,0 +1,71 @@
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+body{
+  background: black;
+}
+.bigCenter{
+  margin: 100px 0 0 25%;
+  width: 50%;
+  padding: 10px;
+  background: white;
+  border-radius: 20px;
+  border: 10px solid pink;
+}
+header{
+  width: 30%;
+  margin-left: 35%;
+}
+h1, p{
+  text-align: center;
+}
+header + section{
+  width: 45%;
+  margin-left: 28%;
+}
+input{
+  width: 100%;
+  border: 1px solid pink;
+  border-radius: 5px;
+}
+form{
+  width: 100%;
+  float:left;
+}
+button{
+  float:left;
+  background: white;
+  border:2px solid pink;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+button:hover{
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+#addTo{
+  margin: 10px 0 0 20px;
+}
+#eraseAll{
+  position: relative;
+  top: -31px;
+  left: 247px;
+}
+ul{
+  margin: 0 0 10px 10%;
+}
+li:hover{
+  cursor: pointer;
+}
+ul li{
+  list-style: outside url('../img/todolist.png');
+  font-size: 1.5em;
+
+}
