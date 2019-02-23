@@ -1,22 +1,15 @@
-# ✅ Week05 Bootcamp2019a Project: Todo List
+# Cute "To-do" List
 
-### Goal: Build a Simple Todo List
+A simple to-do list that displays whatever is inputted and can be individually removed or clear all.
 
-### How to submit your code for review:
+![alt text]()
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+### How its made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**languages used:** HTML5, CSS3, Javascript and jquery
+
+First formulated my HTML and layout to be javascript friendly, added IDs and setup my form for the button and input elements. Then I built out my js program. Mostly used jquery for the event listeners on both buttons and removing list items one by one. Fixed edge-cases like the counter not resetting items are erased and making empty list items.
+
+## Lessons Learned:
+
+Learned how to append new content into the DOM and remove them one by one, about edge-cases, how to prevent the counter from miscounting and getting the input value to not send any empty strings.
