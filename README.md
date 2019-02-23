@@ -2,7 +2,7 @@
 
 A simple to-do list that displays whatever is inputted and can be individually removed or clear all.
 
-![alt text]()
+![alt text](img/todolist.png)
 
 ### How its made:
 
