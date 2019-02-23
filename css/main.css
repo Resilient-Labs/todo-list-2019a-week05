@@ -1,0 +1,18 @@
+.hidden{
+	display: none;
+
+}
+body{
+	background-color: black;
+
+
+}
+li{
+	list-style: none;
+}
+
+section{
+	color: white;
+	background-color: gray;
+
+}
