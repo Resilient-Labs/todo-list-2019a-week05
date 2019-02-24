@@ -8,11 +8,14 @@ body{
 
 }
 li{
-	list-style: none;
+	list-style-type: circle;
 }
 
 section{
 	color: white;
 	background-color: gray;
+	width: 20%;
+	margin: 0 auto;
+	padding: 10px
 
 }
