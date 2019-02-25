@@ -1,22 +1,11 @@
-# ✅ Week05 Bootcamp2019a Project: Todo List
 
-### Goal: Build a Simple Todo List
+# To-Do List Project
+An Application where the user can enter things to do in an input and save to a list that they can then either clear individually or all at once.
 
-### How to submit your code for review:
+## How It's Made:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Tech used:** HTML, JavaScript, jquery
+I used HTML to create buttons and an input and used JavaScript to create functions for them.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Lessons Learned:
+During this prroject I learned how to apply the ".append" method to append items to a list.
