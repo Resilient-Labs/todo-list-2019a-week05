@@ -1,22 +1,16 @@
-# ✅ Week05 Bootcamp2019a Project: Todo List
+# Professor Charles' Superb Student List
+In this project, I created an attendance list that allows the user to input names into a list and then click a button to display the full list of students that have been entered thus far.
 
-### Goal: Build a Simple Todo List
+![Image](student-list.png "Screenshot")
+## How It's Made:
 
-### How to submit your code for review:
+**Tech used:** HTML, CSS, JavaScript
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Functions used: e.preventDefault, .push, .foreach, .innertext, createElement, .appendChild,  
+## Optimizations
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Make attendance list style that compares submitted list to class roster, allow easy clicking of pre-saved names into the list, allow removal of names from the list, add a student to permanent roster, style.
+
+## Lessons Learned:
+
+I learned, though have to re-learn how preventdefault, learned how to use createElement and appendChild
