@@ -2,7 +2,7 @@
 - This project was  super fun to create. From choosing the color scheme to doing the CSS! It allows users to add items to the list and on a click of the button you can either clear
 Link to project: coming soon
 
-![alt tag](media/ToDoRead.jpg)
+![alt tag](media/ToDoRead.png)
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, Framework of choice
