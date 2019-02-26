@@ -3,9 +3,6 @@
 ### Goal: Build a Simple Todo List
  Build a to-do list with JQuery that will delete completed items when you double click on the item.
 
-
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
 ![alt tag](screenshot.png)
 
 ## How It's Made:
