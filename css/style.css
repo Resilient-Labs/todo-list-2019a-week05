@@ -1,0 +1,53 @@
+*{
+  box-sizing: border-box;
+  font-size: 15px;
+  list-style: none;
+  color: red;
+  text-align: center;
+
+}
+body{
+  height: 635px;
+  background-image: url("https://i.gifer.com/WiqK.gif");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: black;
+
+}
+section{
+  width:50%;
+  border: 2px solid red;
+  margin: 4px 0px 0px 30%;
+  background-image: url("https://marketplace.canva.com/MAAr-NdO8MU/1/thumbnail_large/canva-yellow-lined-paper-MAAr-NdO8MU.jpg");
+  background-size: cover;
+}
+
+
+h1{
+ margin:0;
+ font-size: 50px;
+ font-family: fantasy;
+
+}
+input{
+  width:50%;
+  height: 38px;
+  /* margin-bottom: 44px; */
+  font-size: 20px;
+  background-color: rgb(254, 254, 218);
+}
+button{
+  height: 38px;
+  display: inline-block;
+
+}
+ul, li{
+  margin: 7px;
+  font-size: 23px;
+}
+p{
+  font-weight: bolder;
+  font-size: 25px;
+  color: red;
+  font-family: helvetica;
+}

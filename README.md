@@ -1,22 +1,11 @@
-# ✅ Week05 Bootcamp2019a Project: Todo List
+# My To Do List
+- This project was  super fun to create. From choosing the color scheme to doing the CSS! It allows users to add items to the list and on a click of the button you can either clear
+Link to project: coming soon
 
-### Goal: Build a Simple Todo List
+![alt tag](media/ToDoRead.jpg)
 
-### How to submit your code for review:
+How It's Made:
+Tech used: HTML, CSS, JavaScript, Framework of choice
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+Lessons Learned:
+I learned that gifs are not the easiest to use as a background especially on a simple design.
