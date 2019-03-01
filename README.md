@@ -2,6 +2,8 @@
 # To-Do List Project
 An Application where the user can enter things to do in an input and save to a list that they can then either clear individually or all at once.
 
+![alt tag](Todo-List-screenshot.png)
+
 ## How It's Made:
 
 **Tech used:** HTML, JavaScript, jquery
