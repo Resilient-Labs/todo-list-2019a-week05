@@ -1,22 +1,18 @@
-# ✅ Week05 Bootcamp2019a Project: Todo List
+# To-Do List Project
 
-### Goal: Build a Simple Todo List
+This web application allows users to input tasks that they would like to post onto their to-do list. This web application also allows the user to remove tasks as they are completed as well as clearing all to-do list tasks when needed.
 
-### How to submit your code for review:
+### Link to project: https://samtodolist.netlify.com/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![todolist](https://user-images.githubusercontent.com/47072462/53622739-d421e580-3bc8-11e9-837a-0158c0ed1639.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made
+
+Tech used: HTML, CSS, & JavaScript
+
+## Optimizations
+
+I would add a feature that allows the user to place a checkmark beside each task that was completed on the to-do list as well as a line running through to-do list tasks that were not completed that day.
+
+## Lessons Learned
+Through this project, I learned how to append the to-do list to ensure that each tasks submitted was added directly underneath the other.
