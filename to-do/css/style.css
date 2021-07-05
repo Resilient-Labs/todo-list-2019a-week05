@@ -1,0 +1,15 @@
+body{
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
+input{
+  width: 59%;
+}
+button:first-of-type{
+margin-left: 12%;
+}
+ul{
+  text-decoration: none;
+  list-style: none;
+}
