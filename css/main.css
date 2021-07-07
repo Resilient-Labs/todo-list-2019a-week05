@@ -1,0 +1,21 @@
+.hidden{
+	display: none;
+
+}
+body{
+	background-color: black;
+
+
+}
+li{
+	list-style-type: circle;
+}
+
+section{
+	color: white;
+	background-color: gray;
+	width: 20%;
+	margin: 0 auto;
+	padding: 10px
+
+}
