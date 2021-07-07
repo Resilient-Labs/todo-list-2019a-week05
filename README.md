@@ -1,22 +1,17 @@
-# ✅ Week05 Bootcamp2019a Project: Todo List
+# TO DO LIST PROJECT
+An application that allows users to input to do list items, delete individuals items, and clear the whole list.
 
-### Goal: Build a Simple Todo List
 
-### How to submit your code for review:
+![to do list picture](to-do.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
+Used a form, input, and buttons to get then retrieve values from the form and append the value to the list items in the dom.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, Jquery
+
+## Optimizations
+I would add a feature to check off/strike through list items when completed so that users can reference completed items.
+
+## Lessons Learned:
+
+I learned how to append and hide items in the li using jquery and css.

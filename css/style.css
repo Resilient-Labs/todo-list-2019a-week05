@@ -1,0 +1,23 @@
+section{
+  height: 500px;
+  background-color: beige;
+  width: 50%;
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+}
+h3{
+  margin-top: 10px;
+  font-size: 10px;
+}
+
+li{
+  list-style: none;
+}
+
+button{
+  background-color: yellow;
+  font-weight: bold;
+}
